@@ -1,3 +1,12 @@
+# Sai Harshavardhan Rudra
+
+I build data tools and AI agents, and I make small mods for Claude Code in my spare time.
+
+- Data and AI engineering: Python, SQL, Django, Vue, and agents built on the Claude Agent SDK
+- Working at HelixIntel on HelixCMMS and HelixPrevent
+- Based in Buffalo, NY
+- [LinkedIn](https://www.linkedin.com/in/saiharsha0308/) · [Email](mailto:Saiharsharudra03@gmail.com)
+
 ## Claude Code mods
 
 Small plugins that add live panes, status lines and toasts to Claude Code. Clawd stars in most of them.
