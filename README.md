@@ -20,7 +20,7 @@ I started in Salesforce consulting-style delivery: at Accenture I turned client 
 ## Selected projects
 
 **Tools and Claude Code mods**
-- [sql-workbench](https://github.com/saiharsha03/sql-workbench): a Postgres client that learns the joins you actually write (UI preview)
+- [sql-workbench](https://github.com/saiharsha03/sql-workbench): a Postgres client that learns the joins you actually write (work in progress, UI preview)
 - [clawd-spinner](https://github.com/saiharsha03/clawd-spinner): Clawd acts out all 189 Claude Code spinner words, animated locally
 - [pomodawd](https://github.com/saiharsha03/pomodawd): a focus timer where Clawd works at a desk for 25 minutes, then naps in a hammock for 5
 - [tool-radar](https://github.com/saiharsha03/tool-radar): a radar of a session's tool calls, one blip per call
@@ -29,7 +29,7 @@ I started in Salesforce consulting-style delivery: at Accenture I turned client 
 - [DoorDash_ETA](https://github.com/saiharsha03/DoorDash_ETA): delivery-time prediction with EDA, target and one-hot encoding, and regression models
 - [Stock_Prediction_Using_MongoDB](https://github.com/saiharsha03/Stock_Prediction_Using_MongoDB): stock data from the Polygon API stored in MongoDB, with an LSTM forecasting prices 15 days ahead
 - [Data-Visualization-Bot](https://github.com/saiharsha03/Data-Visualization-Bot): a Streamlit app that builds visualizations from an uploaded CSV using the Gemini API
-- [Sentiment-Analysis-Using-BERT](https://github.com/saiharsha03/Sentiment-Analysis-Using-BERT): sentiment classification with BERT
-- [Movie_Recommendation_System](https://github.com/saiharsha03/Movie_Recommendation_System): a movie recommender
+- [Sentiment-Analysis-Using-BERT](https://github.com/saiharsha03/Sentiment-Analysis-Using-BERT): BERT embeddings with a logistic regression classify book-review sentiment at 85% accuracy, served in a Streamlit app
+- [Movie_Recommendation_System](https://github.com/saiharsha03/Movie_Recommendation_System): a content-based recommender using TF-IDF and cosine similarity on the TMDB 5000 movies
 
 There are 13 Claude Code mods in total; the rest are in [my repositories](https://github.com/saiharsha03?tab=repositories).
