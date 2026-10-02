@@ -1,10 +1,19 @@
 # Sai Harshavardhan Rudra
 
-I build data tools and AI agents, and I make small mods for Claude Code in my spare time.
+**Data scientist and forward-deployed engineer.** I work close to customers and stakeholders on messy, real-world data, then build what solves it: models, pipelines, dashboards and AI agents.
 
-I started in Salesforce: at Accenture I led a six-person L2 support team and administered four Salesforce orgs with 8,000+ users. After an MS in Data Science at the University at Buffalo (2024), I joined HelixIntel, where I moved from Power BI reporting and ETL pipelines into building AI features for HelixCMMS and HelixPrevent: LLM-assisted data onboarding, work-order analysis and conversational analytics.
+I started in Salesforce consulting-style delivery: at Accenture I turned client requirements into user stories, led a six-person L2 support team and administered four Salesforce orgs with 8,000+ users. After an MS in Data Science at the University at Buffalo (2024), I joined HelixIntel, where I moved from Power BI reporting and ETL pipelines into building AI features for HelixCMMS and HelixPrevent.
 
-- Data and AI engineering: Python, SQL, Django, Vue, and agents built on the Claude Agent SDK
+## What I do
+
+- **Data science:** work-order classification, churn prediction, risk scoring, and LLM evaluation, including how models hold positions under pushback (early research)
+- **Forward-deployed engineering:** turning ambiguous customer needs into working software, such as LLM-assisted onboarding of legacy data into a CMMS (30%+ less onboarding time) and reporting moved from Excel to Power BI (50%+ less manual work)
+- **AI agents:** conversational analytics and data-query agents on the Claude Agent SDK, with async task queues behind them
+- **Data and product engineering:** Python, SQL, Django REST Framework, Vue 3 / TypeScript, scheduled ETL into reporting databases, Salesforce integrations
+- **Consulting mindset:** requirements first, clear trade-offs, and a working demo before the slide deck
+
+## Details
+
 - Working at HelixIntel on HelixCMMS and HelixPrevent
 - Based in Buffalo, NY
 - [LinkedIn](https://www.linkedin.com/in/saiharsha0308/) · [Email](mailto:Saiharsharudra03@gmail.com)
