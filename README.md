@@ -20,7 +20,6 @@ I started in Salesforce consulting-style delivery: at Accenture I turned client 
 ## Selected projects
 
 **Tools and Claude Code mods**
-- [sql-workbench](https://github.com/saiharsha03/sql-workbench): a Postgres client that learns the joins you actually write (work in progress, UI preview)
 - [clawd-spinner](https://github.com/saiharsha03/clawd-spinner): Clawd acts out all 189 Claude Code spinner words, animated locally
 - [pomodawd](https://github.com/saiharsha03/pomodawd): a focus timer where Clawd works at a desk for 25 minutes, then naps in a hammock for 5
 - [tool-radar](https://github.com/saiharsha03/tool-radar): a radar of a session's tool calls, one blip per call
