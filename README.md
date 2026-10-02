@@ -1,16 +1,15 @@
 # Sai Harshavardhan Rudra
 
-**Data scientist and forward-deployed engineer.** I work close to customers and stakeholders on messy, real-world data, then build what solves it: models, pipelines, dashboards and AI agents.
+I build AI agents, models and data pipelines, and I work directly with customers and stakeholders to get them running on messy, real-world data.
 
 I started in Salesforce consulting-style delivery: at Accenture I turned client requirements into user stories, led a six-person L2 support team and administered four Salesforce orgs with 8,000+ users. After an MS in Data Science at the University at Buffalo (2024), I joined HelixIntel, where I moved from Power BI reporting and ETL pipelines into building AI features for HelixCMMS and HelixPrevent.
 
 ## What I do
 
-- **Data science:** work-order classification, churn prediction, risk scoring, and LLM evaluation, including how models hold positions under pushback (early research)
-- **Forward-deployed engineering:** turning ambiguous customer needs into working software, such as LLM-assisted onboarding of legacy data into a CMMS (30%+ less onboarding time) and reporting moved from Excel to Power BI (50%+ less manual work)
-- **AI agents:** conversational analytics and data-query agents on the Claude Agent SDK, with async task queues behind them
-- **Data and product engineering:** Python, SQL, Django REST Framework, Vue 3 / TypeScript, scheduled ETL into reporting databases, Salesforce integrations
-- **Consulting mindset:** requirements first, clear trade-offs, and a working demo before the slide deck
+- **AI engineering:** conversational analytics and data-query agents on the Claude Agent SDK, with async task queues behind them; LLM-assisted data onboarding; evaluating how models hold positions under pushback (early research)
+- **Data science:** work-order classification, churn prediction and risk scoring, from exploratory analysis through to models that ship inside a product
+- **Forward-deployed work:** embedding with customers and internal teams, turning ambiguous needs into working software, such as legacy-data onboarding into a CMMS (30%+ less onboarding time) and reporting moved from Excel to Power BI (50%+ less manual work)
+- **Engineering:** Python, SQL, Django REST Framework, Vue 3 / TypeScript, scheduled ETL into reporting databases, Salesforce integrations
 
 ## Details
 
