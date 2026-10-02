@@ -2,6 +2,8 @@
 
 I build data tools and AI agents, and I make small mods for Claude Code in my spare time.
 
+I started in Salesforce: at Accenture I led a six-person L2 support team and administered four Salesforce orgs with 8,000+ users. After an MS in Data Science at the University at Buffalo (2024), I joined HelixIntel, where I moved from Power BI reporting and ETL pipelines into building AI features for HelixCMMS and HelixPrevent: LLM-assisted data onboarding, work-order analysis and conversational analytics.
+
 - Data and AI engineering: Python, SQL, Django, Vue, and agents built on the Claude Agent SDK
 - Working at HelixIntel on HelixCMMS and HelixPrevent
 - Based in Buffalo, NY
